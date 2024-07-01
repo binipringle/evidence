@@ -46,7 +46,7 @@ See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre
 
 ## Rule 102 Purpose
 
-Reach fair and just determinations; eliminate delay; develop evidence law.
+The Federal Rules of Evidence aim to help courts reach fair and just determinations, eliminate delay, and develop evidence law.
 
 ---
 
@@ -84,7 +84,7 @@ Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ## Rule 401 Relevance
 
-Relevant evidence is admissible unless a statute or rules provide otherwise. Evidence is relevant if it has any tendency to make a fact of consequence more or less probable than it would be without the evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense, cause of action or theory of the case. This broad admissibility is to allow parties to bring in as much evidence as possible to help a jury or judge reach a fair and just determination. At the same time, Rule 401 supports efficiency by keeping the jury focused on relevant facts. [^2] [^3] [^4]
+Evidence is admissible if it is relevant and unless a statute or rules provide otherwise. Evidence is relevant if it has any tendency to make a fact of consequence more or less probable than the fact would be without the evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense, cause of action or theory of the case. This broad admissibility is to allow parties to bring in as much evidence as possible to help a jury or judge reach a fair and just determination. At the same time, the Rules support efficiency by keeping the jury focused on relevant facts. [^2] [^3] [^4]
 
 The fact which the evidence is offered to prove need not be in dispute. In other words, evidence is relevant even if it addresses a matter that the opponent concedes (stipulates). See *Old Chief v. United States*. [^5]
 
