@@ -6,7 +6,13 @@ editor: Sabina Pringle
 source:
 toc:
 - Rule 102 Purpose
+- Types of Evidence
+- Scope
+- Rule 103 Rulings on Evidence
 - Rule 104 Preliminary Questions
+- Rule 105 Limiting Evidence
+- Rule 106 Remainder of or Related Statements
+- Rule 201 Judicial Notice of Adjudicative Facts
 - Rule 901a Authentication
 - Rule 105 Limiting Instructions
 - Rule 401 Relevance
@@ -46,7 +52,45 @@ See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre
 
 ## Rule 102 Purpose
 
-The Federal Rules of Evidence aim to help courts reach fair and just determinations, eliminate delay, and develop evidence law.
+The Federal Rules of Evidence (FRE) aim to help courts reach fair and just determinations, eliminate delay, and develop evidence law. The FRE have a presumption of admissibility (they favor the admission of evidence).
+
+---
+
+## Scope
+
+FRE govern all civil and criminal trials and proceedings in federal courts, including bankruptcy and admiralty cases and proceedings.
+
+FRE do not apply in grand jury proceedings; preliminary hearings; obtaining a warrant; bail proceedings; **preliminary questions of fact regarding admissibility**; sentencing; probation violation hearings; forfeiture proceedings; or summary contempt.
+
+---
+
+## Types of Evidence
+
+Direct evidence (doesn't require inference); circumstantial evidence (requires inference); real evidence (e.g. murder weapon, written contract or will, stolen goods, seized drugs); demonstrative evidence (prepared in anticipation of trial to assist jury or fact finder in understanding facts at issue).
+
+**Body worn camera footage** from camera worn by police officer is real demonstrative evidence, and is admissible.
+
+---
+
+## Rule 103 Rulings on Evidence
+
+A party may claim error in a ruling to admit or exclude evidence **only if the error affects a substantial right of the party** and (1) if the ruling admits evidence, the party (A) **timely objects or moves to strike**; and (B) **states the specific ground, unless it was apparent from the context**; or (2) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context.
+
+Once the court rules definitively on the record — either before or at trial — a party need not renew an objection or offer of proof to preserve a claim of error for appeal.
+
+The court may make any statement about the character or form of the evidence, the objection made, and the ruling. The court may direct that an offer of proof be made in question-and-answer form.
+
+To the extent practicable, the court must prevent the jury from hearing inadmissible evidence.
+
+A court may take notice of a **plain error** affecting a substantial right, even if the claim of error was not properly preserved.
+
+*Plain error rule is a judicial backstop against really bad lawyering.*
+
+If no objection is made to objectionable evidence, any objection is waived, and the appellate court will not consider the issue, absent plain error. A plain error is an error affecting a substantial right.
+
+An error is harmless if no substantial rights were affected or even if substantial rights were affected by the error, if the court finds that it is likely that the error did not impact the verdict/judgment. Standard for harmless error is usually beyond a reasonable doubt.
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
@@ -61,6 +105,45 @@ When the relevance of evidence depends on whether a fact exists, proof must be i
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
+
+---
+
+## Rule 105 Limiting Evidence
+
+If the court admits evidence that is admissible against a party or for a purpose but not against another party or for another purpose, the court, on timely request, must restrict the evidence to its proper scope and instruct the jury accordingly.
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+---
+
+## Rule 106 Remainder of or Related Statements
+
+If a party introduces all or part of a statement, an adverse party may require the introduction, at that time, of any other part — or any other statement — that in fairness ought to be considered at the same time. The adverse party may do so over a hearsay objection. The purpose of this rule is to avoid misleading the jury and prevent statements being taken out of context.
+
+Rule 106 was amended and now applies to even purely oral conversations (old rule only applied to written or recorded statements). The change is that now this rule applies to written, recorded and purely oral statements.
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+---
+
+## Rule 201 Judicial Notice of Adjudicative Facts
+
+The court may judicially notice an adjudicative fact that is not subject to reasonable dispute because it (1) is generally known within the court's territorial jurisdiction; or (2) can be determined from sources whose accuracy cannot reasonably be questioned.
+
+Judicial notice is a substitute for proof where the court accepts adjudicative facts as true without requiring formal presentation of evidence. Adjudicative facts are facts which concern the parties and are helpful in determining the proper outcome in the case; they can include science, history, government and court records, geography, and calendars. Judicial notice of legislative facts is not permitted under this rule. Once a fact is judicially noticed, it is accepted as true and no contradictory evidence is permitted on that issue.
+
+The court (1) may take judicial notice on its own; or (2) must take judicial notice if a party requests it and the court is supplied with the necessary information. The court may take judicial notice at any stage of the proceeding. There is no requirement that the opposing party be given notice of the intent to request judicial notice but can dispute the taking of judicial notice.
+
+On timely request, a party is entitled to be heard on the propriety of taking judicial notice and the nature of the fact to be noticed. If the court takes judicial notice before notifying a party, the party, on request, is still entitled to be heard.
+
+**Most highly tested area is jury instruction:**
+
+**In a civil case**, the court must instruct the jury to accept the noticed fact as conclusive. **In a criminal case**, the court must instruct the jury that it may or may not accept the noticed fact as conclusive.[^2] FIX FOOTNOTES FROM HERE
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+[^2]:Hypo: A defendant is accused of burglary, defined by statute as “the breaking and entering of a dwelling at night with the intent to commit a felony therein.” The prosecution requests that the judge take judicial notice of the following facts: (1) that the sun set at 7:52 P.M. on the day of the burglary; (2) that all of the buildings on the block with that address that was burglarized are zoned residential; and (3) that most people lock their doors when leaving their homes. Which facts should the judge take judicial notice of? What instructions should the jury be given regarding facts judicially noticed? *Answer: MAY take judicial notice of (1) time of sunset and (2) zoned residential area. May not take judicial notice of fact that most people lock their doors. Because it is a criminal case, the jury MAY accept judicially noticed facts but are NOT required to accept judicially noticed facts as conclusive.
+
 
 ---
 

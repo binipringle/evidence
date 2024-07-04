@@ -15,6 +15,16 @@ Biggest mistake students make when doing a 403 analysis is they jump to prejudic
 
 ## Process for doing problems and reading cases
 
+Bar exam prep notes:
+
+- {:.indent-0}(1) **What** is the evidence
+- {:.indent-0}(2) **Where** is the case (civil or criminal)
+- {:.indent-0}(3) **Who** is offering the evidence
+- {:.indent-0}(4) **When** is the evidence being offered (case in chief, direct or cross, rebuttal)
+- {:.indent-0}(5) **Why** is it being offered (truth of matter asserted, impeachment, etc.)
+
+Notes from class:
+
 - {:.indent-0}(1) What is the evidence at issue?
 - {:.indent-0}(2) Which side offers it?
 - {:.indent-0}(3) What is the evidence offered to prove? AKA Why is it being offered? (remember that one piece of evidence may be admitted for one thing and not for another)
