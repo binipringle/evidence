@@ -58,9 +58,7 @@ The Federal Rules of Evidence (FRE) aim to help courts reach fair and just deter
 
 ## Scope
 
-FRE govern all civil and criminal trials and proceedings in federal courts, including bankruptcy and admiralty cases and proceedings.
-
-FRE do not apply in grand jury proceedings; preliminary hearings; obtaining a warrant; bail proceedings; **preliminary questions of fact regarding admissibility**; sentencing; probation violation hearings; forfeiture proceedings; or summary contempt.
+The Federal Rules of Evidence govern all civil and criminal trials and proceedings in federal courts, including bankruptcy and admiralty cases and proceedings. They do not apply in grand jury proceedings; preliminary hearings; obtaining a warrant; bail proceedings; **preliminary questions of fact regarding admissibility**; sentencing; probation violation hearings; forfeiture proceedings; or summary contempt.
 
 ---
 
@@ -138,18 +136,13 @@ On timely request, a party is entitled to be heard on the propriety of taking ju
 
 **Most highly tested area is jury instruction:**
 
-**In a civil case**, the court must instruct the jury to accept the noticed fact as conclusive. **In a criminal case**, the court must instruct the jury that it may or may not accept the noticed fact as conclusive.[^2] FIX FOOTNOTES FROM HERE
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
-[^2]:Hypo: A defendant is accused of burglary, defined by statute as “the breaking and entering of a dwelling at night with the intent to commit a felony therein.” The prosecution requests that the judge take judicial notice of the following facts: (1) that the sun set at 7:52 P.M. on the day of the burglary; (2) that all of the buildings on the block with that address that was burglarized are zoned residential; and (3) that most people lock their doors when leaving their homes. Which facts should the judge take judicial notice of? What instructions should the jury be given regarding facts judicially noticed? *Answer: MAY take judicial notice of (1) time of sunset and (2) zoned residential area. May not take judicial notice of fact that most people lock their doors. Because it is a criminal case, the jury MAY accept judicially noticed facts but are NOT required to accept judicially noticed facts as conclusive.
-
+**In a civil case**, the court must instruct the jury to accept the noticed fact as conclusive. **In a criminal case**, the court must instruct the jury that it may or may not accept the noticed fact as conclusive. [See hypo](https://binipringle.github.io/evidence/texts/3-hypos/).
 
 ---
 
 ## Rule 901a Authentication
 
-Real evidence must be authenticated. To authenticate evidence, the proponent must show that the evidence they want to admit is what they say it is.
+Real evidence must be authenticated. To authenticate evidence, the proponent must show that the proposed evidence is what they say it is.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -161,7 +154,7 @@ If the court admits evidence that is admissible for one purpose (or against one 
 
 *The non-proponent party would argue that a limiting instruction is prejudicial because it actually brings possible uses of the evidence to the jury's attention which they might not have thought of otherwise.*
 
-Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
