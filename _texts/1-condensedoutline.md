@@ -65,9 +65,9 @@ The Federal Rules of Evidence govern all civil and criminal trials and proceedin
 
 ## Types of Evidence
 
-Direct evidence (doesn't require inference); circumstantial evidence (requires inference); real evidence (e.g. murder weapon, written contract or will, stolen goods, seized drugs); demonstrative evidence (prepared in anticipation of trial to assist jury or fact finder in understanding facts at issue).
+**Direct evidence** (doesn't require inference); **circumstantial evidence** (requires inference); **real evidence** (e.g. murder weapon, written contract or will, stolen goods, seized drugs); demonstrative evidence (prepared in anticipation of trial to assist jury or fact finder in understanding facts at issue).
 
-**Body worn camera footage** from camera worn by police officer is real demonstrative evidence, and is admissible.
+*Body worn camera footage from camera worn by police officer is real demonstrative evidence, and is admissible.*
 
 ---
 
@@ -81,8 +81,6 @@ If no objection is made, the right to object was waived, and the appellate court
 
 To the extent practicable, the court must prevent the jury from hearing inadmissible evidence.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rule 104 Preliminary Questions
@@ -91,9 +89,9 @@ The trial judge decides any preliminary question about whether a witness is qual
 
 *Court often excludes prejudicial evidence under 403 if there is another way to get facts in.*
 
-When the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist. *Triggers to fact does not exist could be objections or challenges that suggest fact does not exist (remember if good faith belief thing happened evidence can come in)*
+When the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+*Triggers to fact does not exist could be objections or challenges that suggest fact does not exist (remember if good faith belief thing happened evidence can come in)*
 
 [^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
 
@@ -105,17 +103,13 @@ If the court admits evidence that is admissible for one purpose (or against one 
 
 *The non-proponent party would argue that a limiting instruction is prejudicial because it actually brings possible uses of the evidence to the jury's attention which they might not have thought of otherwise.*
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rule 106 Remainder of or Related Statements
 
-If a party introduces all or part of a statement, an adverse party may require the introduction, at that time, of any other part — or any other statement — that in fairness ought to be considered at the same time. The adverse party may do so over a hearsay objection. The purpose of this rule is to avoid misleading the jury and prevent statements being taken out of context.
+If a party introduces all or part of a statement (including purely oral statements), an adverse party may require the introduction of any other part of the statement or any other statement that in fairness should be considered at the same time. This can be over a hearsay objection. The purpose of this rule is to avoid misleading the jury and prevent statements being taken out of context.
 
-Rule 106 was amended and now applies to even purely oral conversations (old rule only applied to written or recorded statements). The change is that now this rule applies to written, recorded and purely oral statements.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+*Rule 106 was amended and now applies to even purely oral conversations (old rule only applied to written or recorded statements). The change is that now this rule applies to written, recorded and purely oral statements.*
 
 ---
 
@@ -169,8 +163,6 @@ The fact which the evidence is offered to prove need not be in dispute. In other
 
 *Relevance is a very low bar to clear, so an MBE answer that excludes evidence purely on relevance grounds is typically wrong. Sometimes including evidence for relevance might show up.*
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 [^2]:U.S. v. Roger Stone (USDC for District of Columbia, 2019) *illustrates relevance (Rule 401)* (Movie clip from the Godfather is relevant to place defendant’s statements about Frank Panganeli in context by showing the jury the image that Stone intended to evoke in Person 2’s mind when he named Panganeli)
 
 [^3]:Wielgus v. Ryobi Techs., Inc. (Northern District of Illinois, Eastern Division, 2012) *illustrates relevance (Rule 401)* (motion in limine to bar plaintiff from presenting video and in-court demonstrations of SawStop Technology on model not substantially similar to model that caused injury denied without prejudice because SawStop functions in the same manner on both models and the probative value of the demonstration could substantially outweigh the danger of any unfair prejudice)
@@ -190,8 +182,6 @@ Relevant evidence is generally admissible unless its probative value is substant
 *Prejudice is always jury misuse (making a decision on improper ground); also affected by policy of rule (e.g., 408 juries overvalue settlements); character evidence generally overvalued and decisions made on character rather than event on day in question.*
 
 *Always plan to discuss relevance on an MEE.*
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^6]:State v. Poe, 21 Utah 113 (1968) *illustrates prejudice (Rule 403)* (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
 
@@ -214,8 +204,6 @@ Character evidence is admissible if is is relevant to an **essential element** o
 
 For use of character evidence for **impeachment**, see Rule 608.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rule 404a2 The Mercy Rule
@@ -225,8 +213,6 @@ For use of character evidence for **impeachment**, see Rule 608.
 **Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
 
 Under **Rule 404(a)(2)** or **the Mercy Rule**, a criminal defendant may offer evidence of pertinent character traits of the victim and/or the defendant. If the evidence is admitted, the prosecutor may attack the evidence in cross examination and bring in evidence of an opposing character trait. The policy reason for this rule is that the accused may need a counterweight to the extensive investigative and prosecutorial resources of the government. **In a homicide case**, if the defendant is claiming self-defense, the prosecutor does not have to wait for the defendant to offer character evidence of the victim but can directly offer evidence of the victim’s trait of peacefulness.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
@@ -240,8 +226,6 @@ Under **Rule 404(b)**, evidence of any other crime, wrong, or act is not admissi
 
 For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose; (2) be relevant to that purpose; (3) does not cause unfair prejudice; and (4) the court must, upon request, issue a limiting instruction to restrict the evidence to its proper scope. In a criminal case, the prosecution must provide written notice to the defendant,  stating the permitted purpose for which the evidence is being offered and the reasoning that supports the purpose. This rule regulates evidence of prior acts to prevent jury misuse for propensity purposes, which is why the evidence must also satisfy 401, 403 and 105.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rule 407 Subsequent Remedial Measures
@@ -253,8 +237,6 @@ If a subsequent remedial measure is offered for impeachment, courts use a narrow
 *Because impeachment is narrower it's a good place to argue 403 because if evidence for impeachment only less probative; prejudice is jury learning about and misusing measure*.
 
 *Party seeking to admit would argue that the exception to this rule is there specifically to let this kind of evidence in to impeach or to prove ownership and/or control or feasibility. Party seeking to exclude would argue that exception is narrow and here this would cause prejudice from jury misuse.*
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^18]:Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113 (E.D. Pennsylvania, 2014) *illustrates subsequent remedial measures (Rule 407)* (video surveillance footage showing store employee putting cardboard on the floor where plaintiff fell is inadmissible as evidence of subsequent remedial measures because it does not directly contradict employee's witness testimony.)
 
@@ -274,8 +256,6 @@ Evidence of compromise offers or negotiations about a claim are **not admissible
 
 *Party seeking to exclude would argue that this rule specifically protects statements made in negotiations for the purpose of settling disputes and must be applied only for that, or the policy reason of promoting socially valuable negotiations would be diluted. Party seeking to admit would argue that evidence shows bias and bias always non-collateral.*
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 [^23]:Weems v. Tyson Foods, Inc., 665 F.3d 958 (C.A 8th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (district court violated Rule 408 by admitting into evidence a separation agreement and related testimony and this error likely materially influenced the jury’s verdict)
 
 [^24]:except statements made during negotiations with a government agency; these can be introduced in a subsequent criminal investigation. **This will not be tested on the final**.
@@ -292,23 +272,17 @@ Evidence of compromise offers or negotiations about a claim are **not admissible
 
 **Leading questions** can be asked in cross examination, but only about information that was provided in direct examination, or when a party calls a hostile witness, adverse party, or witness identified with an adverse party.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rule 607 Witness Impeachment  
 
 Any party may attack a witness’s credibility. Witnesses can be impeached for **incompetency, bias, prior inconsistent statement** and **general character for untruthfulness**.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rules 601 602 603 Witness Competency
 
 Every person is competent to be a witness unless the Federal Rules or, in a civil case, state law, provide otherwise. A witness must have personal knowledge of the matter they are testifying to. To have personal knowledge, a witness must be able to perceive events, take an oath, and remember events. The rules tilt strongly towards competency so as to include as much relevant evidence as possible.  [^10] [^11]
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^10]:Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994) *illustrates witness competency (Rules 601, 602, 602)* (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
 
@@ -320,8 +294,6 @@ Every person is competent to be a witness unless the Federal Rules or, in a civi
 
 **Bias** is the relationship between a party and a witness which might lead the witness to slant their testimony in favor of or against a party. (U.S. v. Abel) [^12]. Bias is always non-collateral.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 [^12]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
 
 ---
@@ -329,8 +301,6 @@ Every person is competent to be a witness unless the Federal Rules or, in a civi
 ## Rule 613 Prior Inconsistent Statement
 
 A witness can be impeached with a **prior inconsistent statement**. The impeaching party does not need to disclose the prior statement to the witness but, if requested, must disclose it to the other party’s attorney. The witness must be afforded an opportunity to explain or deny.  **Extrinsic evidence** of a prior inconsistent statement is inadmissible to prove a **collateral** matter but can be brought in to prove a **non-collateral matter**. **Extrinsic evidence** is any evidence other than testimony from the witness on the stand. A **collateral matter** is only relevant to impeachment. A **non-collateral matter** proves a fact of consequence other than impeachment.[^13] [^14] The purpose of this rule is to regulate the use of prior inconsistent statements to avoid distracting jurors with tangential information that could cause confusion or delay.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^13]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
 
@@ -346,8 +316,6 @@ A witness can be impeached with a **prior inconsistent statement**. The impeachi
 
 **Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing **testimony about reputation and opinion** and, **on cross-examination**, **questions about specific prior conduct** to rebut opinion or reputation evidence based on good faith belief. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 [^15]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
 
 [^16]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
@@ -361,8 +329,6 @@ A witness can be impeached with a **prior inconsistent statement**. The impeachi
 **Hearsay** is an out-of-court statement offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined and the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies. [^27]
 
 *All witnesses are declarants but declarants are witnesses only when they testify under oath at a trial or hearing.*
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^27]:United States v. Joe 8 F.3d 1488 (10th Cir. 1993) *illustrates hearsay* (court determined that threat and rape statements made by deceased Julia Joe to her doctor were admissible under statement for medical diagnosis or treatment [appellate court found that narrow then-existing mental state exception did not allow statement about alleged perpetrator's identity] and were not precluded under Rule 404(b) crimes, wrongs and other acts, as they were being offered to show defendant's "specific intent")
 
@@ -378,15 +344,11 @@ Exceptions to the rule against hearsay covered by the exam are present sense imp
 
 A statement of a **present sense impression** is an exception to the rule against hearsay whether the declarant is available as a witness or not. A present sense impression is a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it. Statements of present sense impression are highly reliable because the declarant was pretty much thinking aloud without planning beforehand what they are going to say.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rule 803 2 Excited Utterance
 
 An **excited utterance** is an exception to the rule against hearsay whether the declarant is available as a witness or not. An excited utterance is a statement responsive to a startling event, made before the declarant had time to contrive or misrepresent, while under stress of excitement caused by the startling event, and about the startling event. Excited utterances are reliable because excitement doesn't allow declarant to think much about what they say.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
@@ -394,15 +356,11 @@ An **excited utterance** is an exception to the rule against hearsay whether the
 
 A statement of the declarant’s **then-existing state of mind** is an exception to the rule against hearsay whether the declarant is available as a witness or not. State of mind is the declarant's **then-existing state of mind** such as **motive, intent, or plan**, or sensory, or physical condition such as **fear, pain, or discomfort**. State of mind is not memory or belief unless it relates to the validity or terms of the declarant’s will. Statements of then-existing state of mind are highly reliable because the declarant was pretty much thinking aloud without planning beforehand what they are going to say.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rule 803 4 Medical Diagnosis or Treatment
 
 A statement made **for medical diagnosis or treatment** is not excluded by the rule against hearsay regardless of whether the declarant is available as a witness if the statement is made for seeking medical diagnosis or treatment; and describes medical history, symptoms, their inception, or their general cause. Statements made for medical diagnosis or treatment are reliable because it is in the declarant's self-interest to provide truthful information to doctors when seeking medical care. **Rule 803(4)**.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
@@ -410,15 +368,11 @@ A statement made **for medical diagnosis or treatment** is not excluded by the r
 
 The "**business records**” exception to hearsay provides that a record of an act, event, condition, opinion, or diagnosis is not excluded by the rule against hearsay whether the declarant is available as a witness or not, if the record was (A) made at or near the time by someone with knowledge; (B) kept in the course of a regularly conducted activity; (C) made as part of a regular practice; (D) the witness is the custodian or qualified or there is a certification; and (E) the opposing party doesn't show a lack of trustworthiness. Business records are highly reliable because they are generally kept to run businesses. **Rule 803(6)**.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Rule 805 Hearsay Within Hearsay
 
 **Hearsay within hearsay** is not excluded by the rule against hearsay if each part of the combined statements conforms with an exception to the rule.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
@@ -427,8 +381,6 @@ The "**business records**” exception to hearsay provides that a record of an a
 A declarant is an unavailable witness if (1) a privilege applies; (2) the declarant refuses to testify, (3) does not remember, (4) is dead or ill, or (5) is absent and could not be found. A declarant is not unavailable if the proponent caused the declarant’s unavailability in order to prevent them from testifying.
 
 A **statement against interest** made by an unavailable witness is an exception to the rule against hearsay if it is a statement that a reasonable person would believe to be true because it is so contrary to the declarant’s interest or had so great a tendency to invalidate the declarant’s claim or expose the declarant to civil or criminal liability that the declarant would not have said it otherwise and, if offered in a criminal case, is supported by corroborating indicia of trustworthiness.[^27] [^28]
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^27]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement against interest exception to rule against hearsay* (if Hardin's statement used against Stone the statement is untrustworthy because Hardin was cooperating with prosecutors when he taped the conversation)
 
@@ -440,14 +392,10 @@ A **statement against interest** made by an unavailable witness is an exception 
 
 A **declarant-witness’s prior statement** is exempt from the rule against hearsay if the declarant testifies and is subject to cross-examination and the prior statement (A) is inconsistent and was given under penalty of perjury at another procedure; (B) is consistent and is offered (i) to rebut an express or implied charge that the declarant fabricated it, was under improper influence or had improper motive; or (ii) to rehabilitate the witness's credibility when attacked on another ground; or (C) identifies a person the declarant perceived earlier.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 ## Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 
 An **opposing party's statement** is an exemption to the rule against hearsay if it was made by the opposing party in their individual capacity or by their agent or employee within the scope of their relationship or duties, or if it was **made by the party’s co-conspirator during and in furtherance of the conspiracy.** Neither declarant nor conspiracy have to be charged. **The proponent must offer additional evidence** that a conspiracy existed and that the party and declarant were members of the conspiracy. A conspiracy is a joint venture or common plan. A conspiracy exists until the parties are arrested or collaborate with law enforcement, extricate themselves from the conspiracy, or the conspiracy completes its end. The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a judicial device that holds a party responsible for all statements they make and therefore "estops" them from objecting to their own statement on grounds that it is unreliable.  However, a declarant can always take the stand and explain.  [^29] [^30] [^31] [^32]
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^29]:Baines v. Walgreen 863 F.3d 656 (7th Cir. 2007) *illustrates opposing party's statement made by agent or employee; also illustrates hearsay within hearsay* (Baines allowed to admit Martin's statement that Ruehs stated that Birch told Ruehs not to hire Baines because Martin was a Walgreen's employee and Ruehs was her supervisor and statements were within the scope of employment, and because innermost level of testimony [what Birch said to Ruehs] was not a statement but a command)
 
@@ -463,15 +411,11 @@ An **opposing party's statement** is an exemption to the rule against hearsay if
 
 Real evidence must be authenticated. To authenticate evidence, the proponent must show that the proposed evidence is what they say it is.
 
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
 ---
 
 ## Sixth Amendment Confrontation Clause
 
 The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right to be confronted with the witnesses against them. Thus, out-of-court statements against a criminal defendant offered for the truth of the matter asserted are excluded unless the declarant testifies at trial or the defendant had a prior opportunity to cross-examine the declarant. The out-of-court statement must be **Testimonial**. A testimonial statement is a formal declaration or affirmation made to establish a fact that the declarant would reasonably expect to be used for criminal investigation or prosecution (*Crawford* (2004)[^33]).[^34] Statements are **non-testimonial** when the **primary purpose** of a police interrogation is to enable police assistancefor meeting an **ongoing emergency**. The primary purpose must be of both the defendant and the interrogator (*Davis* (2006)[^35]). [^36] The policy reason for this rule is to prevent abuses by the court like what happened to Sir Walter Raleigh.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
@@ -503,8 +447,6 @@ To determine the primary purpose of a statement, courts consider the declarant�
 **Lab or scientific reports are testimonial**
 
 In *Bullcoming* (2011)[^39] and *Melendez Diaz* (2009)[^40] the Court ruled that laboratory reports or affidavits accompanying reports are testimonial because they are made for the purpose of establishing or proving some fact in a criminal proceeding. Therefore, these records cannot be admitted unless the person who did the test takes the stand.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 [^33]:Crawford v. Washington 541 US 36 (2004) *shifted application of confrontation clause* (unexamined testimonial ex parte statements against defendant is what the confrontation clause bars)
 
