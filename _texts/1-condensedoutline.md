@@ -15,8 +15,10 @@ toc:
 - Rule 201 Judicial Notice of Adjudicative Facts
 - Rule 901a Authentication
 - Rule 105 Limiting Instructions
-- Rule 401 Relevance
+- Burden of Proof
+- Rule 301 Presumptions in Civil Cases
 - Rule 402 Admissibility of Relevant Evidence
+- Rule 401 Definition of Relevant Evidence
 - Rule 403 Prejudice
 - Rule 611 Control by the Court and Leading Questions
 - Rule 607 Witness Impeachment
@@ -72,21 +74,13 @@ Direct evidence (doesn't require inference); circumstantial evidence (requires i
 
 ## Rule 103 Rulings on Evidence
 
-A party may claim error in a ruling to admit or exclude evidence **only if the error affects a substantial right of the party** and (1) if the ruling admits evidence, the party (A) **timely objects or moves to strike**; and (B) **states the specific ground, unless it was apparent from the context**; or (2) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context.
+A party may claim error in a ruling to admit or exclude evidence **only if the error affects a substantial right of the party** and (1) if the ruling admits evidence, the party (A) **timely objects or moves to strike**; and (B) **states the specific ground, unless it was apparent from the context**; or (2) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context. Once the court rules on a claim of error, a party does not need to renew their offer of proof to preserve a claim of error for appeal.
 
-Once the court rules definitively on the record — either before or at trial — a party need not renew an objection or offer of proof to preserve a claim of error for appeal.
+A court may take notice of a **plain error** affecting a substantial right, even if the claim of error was not properly preserved. (*Plain error rule is a judicial backstop against really bad lawyering.*) A plain error is an error affecting a substantial right. A harmless error is an error that did not affect substantial rights or, if substantial rights were affected, if the court finds that it is likely that the error did not impact the outcome of the case. The standard for harmless error is usually beyond a reasonable doubt.
 
-The court may make any statement about the character or form of the evidence, the objection made, and the ruling. The court may direct that an offer of proof be made in question-and-answer form.
+If no objection is made, the right to object was waived, and the appellate court will not consider the issue unless there was plain error.
 
 To the extent practicable, the court must prevent the jury from hearing inadmissible evidence.
-
-A court may take notice of a **plain error** affecting a substantial right, even if the claim of error was not properly preserved.
-
-*Plain error rule is a judicial backstop against really bad lawyering.*
-
-If no objection is made to objectionable evidence, any objection is waived, and the appellate court will not consider the issue, absent plain error. A plain error is an error affecting a substantial right.
-
-An error is harmless if no substantial rights were affected or even if substantial rights were affected by the error, if the court finds that it is likely that the error did not impact the verdict/judgment. Standard for harmless error is usually beyond a reasonable doubt.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -126,13 +120,11 @@ Rule 106 was amended and now applies to even purely oral conversations (old rule
 
 ## Rule 201 Judicial Notice of Adjudicative Facts
 
-The court may judicially notice an adjudicative fact that is not subject to reasonable dispute because it (1) is generally known within the court's territorial jurisdiction; or (2) can be determined from sources whose accuracy cannot reasonably be questioned.
+The court may judicially notice an adjudicative fact that is not subject to reasonable dispute if it (1) is generally known within the jurisdiction; or (2) can be determined from sources whose accuracy cannot reasonably be questioned.
 
-Judicial notice is a substitute for proof where the court accepts adjudicative facts as true without requiring formal presentation of evidence. Adjudicative facts are facts which concern the parties and are helpful in determining the proper outcome in the case; they can include science, history, government and court records, geography, and calendars. Judicial notice of legislative facts is not permitted under this rule. Once a fact is judicially noticed, it is accepted as true and no contradictory evidence is permitted on that issue.
+Judicial notice is a substitute for proof where the court accepts adjudicative facts as true (no evidence needed). Adjudicative facts are facts which concern the parties and are helpful in determining the proper outcome of the case; adjudicative facts can include science, history, government and court records, geography, and calendars. Judicial notice of legislative facts is not permitted under this rule. Once a fact is judicially noticed, it is accepted as true and no contradictory evidence is permitted on that issue.
 
-The court (1) may take judicial notice on its own; or (2) must take judicial notice if a party requests it and the court is supplied with the necessary information. The court may take judicial notice at any stage of the proceeding. There is no requirement that the opposing party be given notice of the intent to request judicial notice but can dispute the taking of judicial notice.
-
-On timely request, a party is entitled to be heard on the propriety of taking judicial notice and the nature of the fact to be noticed. If the court takes judicial notice before notifying a party, the party, on request, is still entitled to be heard.
+The court (1) may take judicial notice on its own; or (2) must take judicial notice if a party requests it. The court may take judicial notice at any stage of the proceeding. There is no requirement that the opposing party be given notice of the intent to request judicial notice but can dispute the taking of judicial notice. If the court takes judicial notice before notifying a party, the party, on request, is still entitled to be heard.
 
 **Most highly tested area is jury instruction:**
 
@@ -150,7 +142,7 @@ Real evidence must be authenticated. To authenticate evidence, the proponent mus
 
 ## Rule 105 Limiting Instructions
 
-If the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Rule 105 supposes that juries will follow instructions and the limiting instruction will therefore limit any unfair prejudice stemming from jury misuse.
+If the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Rule 105 presumes that juries will follow instructions and the limiting instruction will therefore limit any unfair prejudice stemming from jury misuse.
 
 *The non-proponent party would argue that a limiting instruction is prejudicial because it actually brings possible uses of the evidence to the jury's attention which they might not have thought of otherwise.*
 
@@ -158,11 +150,41 @@ If the court admits evidence that is admissible for one purpose (or against one 
 
 ---
 
-## Rule 401 Relevance
+## Burden of Proof
 
-Evidence is admissible if it is relevant and unless a statute or rules provide otherwise. Evidence is relevant if it has any tendency to make a fact of consequence more or less probable than the fact would be without the evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense, cause of action or theory of the case. This broad admissibility is to allow parties to bring in as much evidence as possible to help a jury or judge reach a fair and just determination. At the same time, the Rules support efficiency by keeping the jury focused on relevant facts. [^2] [^3] [^4]
+The burden of proof consists of the **burden of production** and the **burden of persuasion**.
+
+The **burden of production** is a party's obligation to produce sufficient evidence to support a particular proposition of fact. Satisfying the burden of production is also referred to as establishing a prima facie case. Determining whether a party has satisfied its burden of production is not an issue of fact for the jury; it is an issue of law. A judge can dismiss a case before it ever gets to the jury if the burden of production was not met. In **civil cases**, the burden of production is on the plaintiff. In **criminal cases**, the burden of production is on the prosecution.
+
+The **burden of persuasion** is a party's obligation to convince a jury that a fact is true with a degree of belief (or by a standard of proof). In **civil** cases, a plaintiff's burden is usually "by a preponderance of the evidence." In **criminal cases**, the prosecution's burden is "beyond a reasonable doubt." Unlike the burden of production, the burden of persuasion is an issue of fact, not an issue of law. As a result, a judge cannot dismiss a case before it reaches the jury for failing to meet the burden of persuasion.
+
+*In practice, the given burden of persuasion is often dispositive in close cases or cases where evidence is limited. As a result, courts often utilize burden shifting to place the burden of persuasion upon the party best capable of producing relevant evidence.*  
+
+---
+
+## Rule 301 Presumptions in Civil Cases
+
+In a civil case, unless a federal statute or these rules provide otherwise, the party against whom a presumption is directed has the burden of producing evidence to rebut the presumption. This rule does not shift the burden of persuasion, which remains on the party who had it originally.
+
+For example, when a child is born during marriage there is a presumption that the mother’s husband is the father of the child. Another example is that a person disappeared for seven years is presumed dead. These presumptions are rebuttable.
+
+An irrebuttable presumption (or conclusive presumption) is a legal inference or assumption that cannot be contradicted or disproven, regardless of any evidence presented to the contrary. Once established, an irrebuttable presumption conclusively determines the outcome on a particular issue and does not allow the opposing party to provide evidence to contest it. For example, there is often an irrebutable presumption regarding the age of consent in certain jurisdictions. In some jurisdictions there might be an irrebuttable presumption that a child below a certain age (e.g., under 7 years old) is incapable of committing a crime or forming the intent necessary to commit a crime. No amount of evidence can be presented to argue otherwise; the presumption is absolute and binding.
+
+---
+
+## Rule 402 Admissibility of Relevant Evidence
+
+Relevant evidence is admissible unless a statute or rules provide otherwise.
+
+---
+
+## Rule 401 Definition of Relevant Evidence
+
+Evidence is relevant if it has any tendency to make a fact of consequence more or less probable than that fact would be without the evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense, cause of action or theory of the case. This broad admissibility is to allow parties to bring in as much evidence as possible to help a jury or judge reach a fair and just determination. At the same time, the Rules support efficiency by keeping the jury focused on relevant facts. [^2] [^3] [^4]
 
 The fact which the evidence is offered to prove need not be in dispute. In other words, evidence is relevant even if it addresses a matter that the opponent concedes (stipulates). See *Old Chief v. United States*. [^5]
+
+*Relevance is a very low bar to clear, so an MBE answer that excludes evidence purely on relevance grounds is typically wrong. Sometimes including evidence for relevance might show up.*
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -176,19 +198,15 @@ The fact which the evidence is offered to prove need not be in dispute. In other
 
 ---
 
-## Rule 402 Admissibility of Relevant Evidence
-
-Relevant evidence is admissible unless a statute or rules provide otherwise. Irrelevant evidence is inadmissible.
-
----
-
 ## Rule 403 Prejudice
 
-Rule 403 allows the judge to exclude evidence they consider unfairly prejudicial. Evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence misleads a jury to make a decision on an improper ground and/or causes confusion, delay or waste of time. By allowing judges to counterbalance the broad admissibility of other rules, Rule 403 aims to ensure fairness and efficiency. [^6] [^7] [^8] [^9]
+Relevant evidence is generally admissible unless its probative value is substantially outweighed by the danger of unfair prejudice, confusion, undue delay, or waste of time (including the needless presentation of cumulative evidence). Unfair prejudice is when evidence has an undue tendency to mislead the jury into making a decision on improper grounds. By allowing judges to counterbalance the broad admissibility of other rules, Rule 403 aims to ensure fairness and efficiency. However, Rule 403 favors admissibility. [^6] [^7] [^8] [^9]
 
 *Probative is dependent on what the evidence is being offered to prove and what rules limit the use for (e.g., 407, 408, 608)*
 
 *Prejudice is always jury misuse (making a decision on improper ground); also affected by policy of rule (e.g., 408 juries overvalue settlements); character evidence generally overvalued and decisions made on character rather than event on day in question.*
+
+*Always plan to discuss relevance on an MEE.*
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -260,7 +278,7 @@ A witness can be impeached with a **prior inconsistent statement**. The impeachi
 
 **Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
 
-**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing **testimony about reputation and opinion** and, on cross-examination, **questions about specific prior conduct** to rebut opinion or reputation evidence based on good faith belief. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
+**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing **testimony about reputation and opinion** and, **on cross-examination**, **questions about specific prior conduct** to rebut opinion or reputation evidence based on good faith belief. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -275,6 +293,14 @@ A witness can be impeached with a **prior inconsistent statement**. The impeachi
 ## Rule 404a1 General Prohibition of Character Evidence
 
 **Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
+
+Character evidence comes in three forms: **reputation** (collective opinion); **opinion**; and **specific acts**.
+
+Character evidence is admissible if is is relevant to an **essential element** of the claim or cause of action, or for **impeachment/rehabilitation**. Character evidence is not admissible to show **conformity or propensity** to act in conformance with a character trait.
+
+*Causes of action where character is an essential element: (1) defamation; (2) negligent entrustment, hiring or supervision of an employee or entrustee; (3) immigration; (4) child custody; and (5) entrapment as a defense in a criminal case where character evidence is used to show that defendant is not the type of person who would commit the crime unless entrapped. Reputation, opinion and specific acts are allowed.*  
+
+For use of character evidence for **impeachment**, see Rule 608.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
