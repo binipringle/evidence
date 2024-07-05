@@ -13,24 +13,22 @@ toc:
 - Rule 105 Limiting Evidence
 - Rule 106 Remainder of or Related Statements
 - Rule 201 Judicial Notice of Adjudicative Facts
-- Rule 901a Authentication
-- Rule 105 Limiting Instructions
 - Burden of Proof
 - Rule 301 Presumptions in Civil Cases
 - Rule 402 Admissibility of Relevant Evidence
 - Rule 401 Definition of Relevant Evidence
 - Rule 403 Prejudice
+- Rule 404a1 General Prohibition of Character Evidence
+- Rule 404a2 The Mercy Rule
+- Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
+- Rule 407 Subsequent Remedial Measures
+- Rule 408 Compromise Offers and Negotiations
 - Rule 611 Control by the Court and Leading Questions
 - Rule 607 Witness Impeachment
 - Rules 601 602 603 Witness Competency
 - Bias
 - Rule 613 Prior Inconsistent Statement
 - Rule 608 Witness Impeachment for Character for Untruthfulness
-- Rule 404a1 General Prohibition of Character Evidence
-- Rule 404a2 The Mercy Rule
-- Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
-- Rule 407 Subsequent Remedial Measures
-- Rule 408 Compromise Offers and Negotiations
 - Rules 801 and 802 Hearsay
 - Exceptions to the Rule Against Hearsay
 - Rule 803 1 Present Sense Impression
@@ -42,13 +40,14 @@ toc:
 - Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 - Rule 801d1 Hearsay Exemption Declarant Witness Prior Statement
 - Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
+- Rule 901a Authentication
 - Sixth Amendment Confrontation Clause
 
 ---
 
 Welcome to my condensed outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.
 
-See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law. Course materials are on [TWEN](https://lawschool.westlaw.com/manage/HomePage.aspx?NavChoice=mycourses&task=coursehomepage&courseid=299900).
+See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law.
 
 ---
 
@@ -102,7 +101,9 @@ When the relevance of evidence depends on whether a fact exists, proof must be i
 
 ## Rule 105 Limiting Evidence
 
-If the court admits evidence that is admissible against a party or for a purpose but not against another party or for another purpose, the court, on timely request, must restrict the evidence to its proper scope and instruct the jury accordingly.
+If the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Rule 105 presumes that juries will follow instructions and the limiting instruction will therefore limit any unfair prejudice stemming from jury misuse.
+
+*The non-proponent party would argue that a limiting instruction is prejudicial because it actually brings possible uses of the evidence to the jury's attention which they might not have thought of otherwise.*
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -129,24 +130,6 @@ The court (1) may take judicial notice on its own; or (2) must take judicial not
 **Most highly tested area is jury instruction:**
 
 **In a civil case**, the court must instruct the jury to accept the noticed fact as conclusive. **In a criminal case**, the court must instruct the jury that it may or may not accept the noticed fact as conclusive. [See hypo](https://binipringle.github.io/evidence/texts/3-hypos/).
-
----
-
-## Rule 901a Authentication
-
-Real evidence must be authenticated. To authenticate evidence, the proponent must show that the proposed evidence is what they say it is.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
----
-
-## Rule 105 Limiting Instructions
-
-If the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Rule 105 presumes that juries will follow instructions and the limiting instruction will therefore limit any unfair prejudice stemming from jury misuse.
-
-*The non-proponent party would argue that a limiting instruction is prejudicial because it actually brings possible uses of the evidence to the jury's attention which they might not have thought of otherwise.*
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
@@ -217,77 +200,6 @@ Relevant evidence is generally admissible unless its probative value is substant
 [^8]:Old Chief *illustrates prejudice (Rule 403)* (court reinforced general rule that parties can always present evidence even if other side is willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case.)
 
 [^9]:U.S. v. Boros *illustrates prejudice (Rule 403)* (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative but very prejudicial because people dying, having miscarriages.)
-
----
-
-## Rule 611 Control by the Court and Leading Questions
-
-**Rule 611** provides that the court should reasonably control procedures for examining witnesses and presenting evidence so as to (1) make procedures effective; (2) avoid wasting time; and (3) protect witnesses from harassment or undue embarrassment.
-
-**Leading questions** can be asked in cross examination, but only about information that was provided in direct examination, or when a party calls a hostile witness, adverse party, or witness identified with an adverse party.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
----
-
-## Rule 607 Witness Impeachment  
-
-Any party may attack a witness’s credibility. Witnesses can be impeached for **incompetency, bias, prior inconsistent statement** and **general character for untruthfulness**.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
----
-
-## Rules 601 602 603 Witness Competency
-
-Every person is competent to be a witness unless the Federal Rules or, in a civil case, state law, provide otherwise. A witness must have personal knowledge of the matter they are testifying to. To have personal knowledge, a witness must be able to perceive events, take an oath, and remember events. The rules tilt strongly towards competency so as to include as much relevant evidence as possible.  [^10] [^11]
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
-[^10]:Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994) *illustrates witness competency (Rules 601, 602, 602)* (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
-
-[^11]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates witness competency (Rules 601, 602, 602)* (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
-
----  
-
-## Bias
-
-**Bias** is the relationship between a party and a witness which might lead the witness to slant their testimony in favor of or against a party. (U.S. v. Abel) [^12]. Bias is always non-collateral.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
-[^12]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
-
----
-
-## Rule 613 Prior Inconsistent Statement
-
-A witness can be impeached with a **prior inconsistent statement**. The impeaching party does not need to disclose the prior statement to the witness but, if requested, must disclose it to the other party’s attorney. The witness must be afforded an opportunity to explain or deny.  **Extrinsic evidence** of a prior inconsistent statement is inadmissible to prove a **collateral** matter but can be brought in to prove a **non-collateral matter**. **Extrinsic evidence** is any evidence other than testimony from the witness on the stand. A **collateral matter** is only relevant to impeachment. A **non-collateral matter** proves a fact of consequence other than impeachment.[^13] [^14] The purpose of this rule is to regulate the use of prior inconsistent statements to avoid distracting jurors with tangential information that could cause confusion or delay.
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
-[^13]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
-
-[^14]:Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported) *illustrates prior inconsistent statement Rule 613(b)* (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
-
----
-
-## Rule 608 Witness Impeachment for Character for Untruthfulness
-
-*Start analysis by providing Rule 404(a)(1)*
-
-**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
-
-**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing **testimony about reputation and opinion** and, **on cross-examination**, **questions about specific prior conduct** to rebut opinion or reputation evidence based on good faith belief. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
-
-[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
-
-[^15]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
-
-[^16]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
-
-[^17]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
-
 ---
 
 ## Rule 404a1 General Prohibition of Character Evidence
@@ -371,6 +283,76 @@ Evidence of compromise offers or negotiations about a claim are **not admissible
 [^25]:MCI Communs. Servs. v. Hagan, 641 F.3d 112 (5th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (testimony about phone call asking how much damaged cable would cost was not excluded under Rule 408 because there was not yet an actual dispute)
 
 [^26]:Steps of analysis: The question is whether the statements or conduct were intended to be part of the negotiations toward compromise. Look for: a clear dispute or disagreement communicated between parties > a clear intent to compromise (after dispute) > whether the offer was unilateral or bilateral > whether the offer was concrete or vague > whether the offer was in response to another offer > whether litigation was threatened or started > attorneys or formal negotiations > "legalese" > distinction between business discussions and legal negotiations.
+
+---
+
+## Rule 611 Control by the Court and Leading Questions
+
+**Rule 611** provides that the court should reasonably control procedures for examining witnesses and presenting evidence so as to (1) make procedures effective; (2) avoid wasting time; and (3) protect witnesses from harassment or undue embarrassment.
+
+**Leading questions** can be asked in cross examination, but only about information that was provided in direct examination, or when a party calls a hostile witness, adverse party, or witness identified with an adverse party.
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+---
+
+## Rule 607 Witness Impeachment  
+
+Any party may attack a witness’s credibility. Witnesses can be impeached for **incompetency, bias, prior inconsistent statement** and **general character for untruthfulness**.
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+---
+
+## Rules 601 602 603 Witness Competency
+
+Every person is competent to be a witness unless the Federal Rules or, in a civil case, state law, provide otherwise. A witness must have personal knowledge of the matter they are testifying to. To have personal knowledge, a witness must be able to perceive events, take an oath, and remember events. The rules tilt strongly towards competency so as to include as much relevant evidence as possible.  [^10] [^11]
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+[^10]:Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994) *illustrates witness competency (Rules 601, 602, 602)* (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
+
+[^11]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates witness competency (Rules 601, 602, 602)* (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
+
+---  
+
+## Bias
+
+**Bias** is the relationship between a party and a witness which might lead the witness to slant their testimony in favor of or against a party. (U.S. v. Abel) [^12]. Bias is always non-collateral.
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+[^12]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
+
+---
+
+## Rule 613 Prior Inconsistent Statement
+
+A witness can be impeached with a **prior inconsistent statement**. The impeaching party does not need to disclose the prior statement to the witness but, if requested, must disclose it to the other party’s attorney. The witness must be afforded an opportunity to explain or deny.  **Extrinsic evidence** of a prior inconsistent statement is inadmissible to prove a **collateral** matter but can be brought in to prove a **non-collateral matter**. **Extrinsic evidence** is any evidence other than testimony from the witness on the stand. A **collateral matter** is only relevant to impeachment. A **non-collateral matter** proves a fact of consequence other than impeachment.[^13] [^14] The purpose of this rule is to regulate the use of prior inconsistent statements to avoid distracting jurors with tangential information that could cause confusion or delay.
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+[^13]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
+
+[^14]:Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported) *illustrates prior inconsistent statement Rule 613(b)* (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
+
+---
+
+## Rule 608 Witness Impeachment for Character for Untruthfulness
+
+*Start analysis by providing Rule 404(a)(1)*
+
+**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
+
+**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing **testimony about reputation and opinion** and, **on cross-examination**, **questions about specific prior conduct** to rebut opinion or reputation evidence based on good faith belief. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
+
+[^15]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
+
+[^16]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
+
+[^17]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
 
 ---
 
@@ -474,6 +456,14 @@ An **opposing party's statement** is an exemption to the rule against hearsay if
 [^31]:Mahlandt (pp. 671-672) *illustrates statement of opposing party exception to rule against hearsay* (any statement made by opposing party is broadly construed; does not have to be incriminating or inculpatory; includes diaries, off-hand remarks, things said in anger, things the declarant does not have personal knowledge of, things the declarant is mistaken about)
 
 [^32]:McDaniel (pp. 669-670) *illustrates statement of opposing party exception to rule against hearsay* (cannot admit own statement because no self serving)
+
+---
+
+## Rule 901a Authentication
+
+Real evidence must be authenticated. To authenticate evidence, the proponent must show that the proposed evidence is what they say it is.
+
+[Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
 ---
 
